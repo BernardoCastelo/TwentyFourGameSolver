@@ -1,0 +1,16 @@
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.AssemblyInfoInputs.cache
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.AssemblyInfo.cs
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.csproj.CoreCompileInputs.cache
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.exe
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.deps.json
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.runtimeconfig.json
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.runtimeconfig.dev.json
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.dll
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\ref\TwentyFourGameSolver.dll
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\bin\Debug\net5.0\TwentyFourGameSolver.pdb
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.dll
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\ref\TwentyFourGameSolver.dll
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.pdb
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.genruntimeconfig.cache
+C:\Code@Me\TwentyFourGameSolver\TwentyFourGameSolver\obj\Debug\net5.0\TwentyFourGameSolver.csproj.AssemblyReference.cache
